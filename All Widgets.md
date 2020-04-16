@@ -6,13 +6,13 @@ https://help.github.com/en/github/writing-on-github/organizing-information-with-
 # Flutter Documents Tools and Short Intro of Usages
 
     | Widgets Name | Widgets Usages |
-    | ------------ | -------------- |
+    | --- | --- |
  
-    | Materialapp |  return Material Componant use material design librarary or componant. |
-    | home        |   is DeFault Show Which Screen You Want To Show First.|
-    | runapp()    |  in main Point Of App Provide Various Widget.|
-    center      -   set Widget Into Main screen of Center.
-    widget      -   Full Flutter Framework  Depending in Widget and all about its Widget.
+    | Materialapp | return Material Componant use material design librarary or componant |
+    | home | is DeFault Show Which Screen You Want To Show First |
+    | runapp() | in main Point Of App Provide Various Widget |
+    | center | set Widget Into Main screen of Center |
+    | widget | Full Flutter Framework  Depending in Widget and all about its Widget |
     scaffold    -   use for addd appbar,body,navigation,flotingActionBar,Bottom Navigation.
     StatelessWidget - Use For Static Item. like images & icon.
     StateFullWidget - use For dynamic Controll like Button Click.
