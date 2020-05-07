@@ -1,15 +1,17 @@
 https://help.github.com/en/articles/basic-writing-and-formatting-syntax
+
+
 https://help.github.com/en/github/writing-on-github/organizing-information-with-tables
 
 
 
 # Flutter Documents Tools and Short Intro of Usages
 
-    | Widgets Name | Widgets Usages |
-    | --- | --- |
+    |WidgetsName |WidgetsUsages |
+    |--- |--- |--- |
  
-    | Materialapp | return Material Componant use material design librarary or componant |
-    | home | is DeFault Show Which Screen You Want To Show First |
+    |Materialapp |return Material Componant use material design librarary or componant |
+    |home |is DeFault Show Which Screen You Want To Show First |
     | runapp() | in main Point Of App Provide Various Widget |
     | center | set Widget Into Main screen of Center |
     | widget | Full Flutter Framework  Depending in Widget and all about its Widget |
